@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ac36d57-ec4f-4f00-a176-4dc9a32769ba" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-575435831">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="243" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="243" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab2(task3).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1701" selection-start-column="1701" selection-end-column="1701" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/a.txt" />
+        <option value="$PROJECT_DIR$/list1.xml" />
+        <option value="$PROJECT_DIR$/list.xml" />
+        <option value="$PROJECT_DIR$/lab2(task3).py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab2(task3)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab2(task3)" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2(task2)/lab2(task2).py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="lab2(task3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab2(task3)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2(task3).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab2(task3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ac36d57-ec4f-4f00-a176-4dc9a32769ba" name="Default Changelist" comment="" />
+      <created>1536950924708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536950924708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09980172" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../lab2(task2)/lab2(task2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#58#62#0" expanded="true" />
+            <element signature="e#69#73#0" expanded="true" />
+            <element signature="e#140#144#0" expanded="true" />
+            <element signature="e#151#155#0" expanded="true" />
+            <element signature="e#218#222#0" expanded="true" />
+            <element signature="e#229#233#0" expanded="true" />
+            <element signature="e#250#254#0" expanded="true" />
+            <element signature="e#261#265#0" expanded="true" />
+            <element signature="e#283#287#0" expanded="true" />
+            <element signature="e#295#299#0" expanded="true" />
+            <element signature="e#317#321#0" expanded="true" />
+            <element signature="e#329#333#0" expanded="true" />
+            <element signature="e#397#401#0" expanded="true" />
+            <element signature="e#408#412#0" expanded="true" />
+            <element signature="e#429#433#0" expanded="true" />
+            <element signature="e#440#444#0" expanded="true" />
+            <element signature="e#462#466#0" expanded="true" />
+            <element signature="e#473#477#0" expanded="true" />
+            <element signature="e#498#502#0" expanded="true" />
+            <element signature="e#509#513#0" expanded="true" />
+            <element signature="e#531#535#0" expanded="true" />
+            <element signature="e#543#547#0" expanded="true" />
+            <element signature="e#565#569#0" expanded="true" />
+            <element signature="e#577#581#0" expanded="true" />
+            <element signature="e#646#650#0" expanded="true" />
+            <element signature="e#657#661#0" expanded="true" />
+            <element signature="e#723#727#0" expanded="true" />
+            <element signature="e#734#738#0" expanded="true" />
+            <element signature="e#804#808#0" expanded="true" />
+            <element signature="e#815#819#0" expanded="true" />
+            <element signature="e#884#888#0" expanded="true" />
+            <element signature="e#895#899#0" expanded="true" />
+            <element signature="e#917#921#0" expanded="true" />
+            <element signature="e#928#932#0" expanded="true" />
+            <element signature="e#951#955#0" expanded="true" />
+            <element signature="e#962#966#0" expanded="true" />
+            <element signature="e#1035#1039#0" expanded="true" />
+            <element signature="e#1046#1050#0" expanded="true" />
+            <element signature="e#1108#1112#0" expanded="true" />
+            <element signature="e#1119#1123#0" expanded="true" />
+            <element signature="e#1191#1195#0" expanded="true" />
+            <element signature="e#1202#1206#0" expanded="true" />
+            <element signature="e#1276#1280#0" expanded="true" />
+            <element signature="e#1287#1291#0" expanded="true" />
+            <element signature="e#1358#1362#0" expanded="true" />
+            <element signature="e#1369#1373#0" expanded="true" />
+            <element signature="e#1442#1446#0" expanded="true" />
+            <element signature="e#1453#1457#0" expanded="true" />
+            <element signature="e#1478#1482#0" expanded="true" />
+            <element signature="e#1490#1494#0" expanded="true" />
+            <element signature="e#1555#1559#0" expanded="true" />
+            <element signature="e#1566#1570#0" expanded="true" />
+            <element signature="e#1585#1589#0" expanded="true" />
+            <element signature="e#1596#1600#0" expanded="true" />
+            <element signature="e#1668#1672#0" expanded="true" />
+            <element signature="e#1679#1683#0" expanded="true" />
+            <element signature="e#1753#1757#0" expanded="true" />
+            <element signature="e#1764#1768#0" expanded="true" />
+            <element signature="e#1790#1794#0" expanded="true" />
+            <element signature="e#1801#1805#0" expanded="true" />
+            <element signature="e#1872#1876#0" expanded="true" />
+            <element signature="e#1883#1887#0" expanded="true" />
+            <element signature="e#1955#1959#0" expanded="true" />
+            <element signature="e#1966#1970#0" expanded="true" />
+            <element signature="e#2039#2043#0" expanded="true" />
+            <element signature="e#2050#2054#0" expanded="true" />
+            <element signature="e#2124#2128#0" expanded="true" />
+            <element signature="e#2135#2139#0" expanded="true" />
+            <element signature="e#2206#2210#0" expanded="true" />
+            <element signature="e#2217#2221#0" expanded="true" />
+            <element signature="e#2288#2292#0" expanded="true" />
+            <element signature="e#2299#2303#0" expanded="true" />
+            <element signature="e#2370#2374#0" expanded="true" />
+            <element signature="e#2381#2385#0" expanded="true" />
+            <element signature="e#2402#2406#0" expanded="true" />
+            <element signature="e#2414#2418#0" expanded="true" />
+            <element signature="e#2484#2488#0" expanded="true" />
+            <element signature="e#2495#2499#0" expanded="true" />
+            <element signature="e#2564#2568#0" expanded="true" />
+            <element signature="e#2576#2580#0" expanded="true" />
+            <element signature="e#2651#2655#0" expanded="true" />
+            <element signature="e#2663#2667#0" expanded="true" />
+            <element signature="e#2690#2694#0" expanded="true" />
+            <element signature="e#2702#2706#0" expanded="true" />
+            <element signature="e#2769#2773#0" expanded="true" />
+            <element signature="e#2781#2785#0" expanded="true" />
+            <element signature="e#2801#2805#0" expanded="true" />
+            <element signature="e#2813#2817#0" expanded="true" />
+            <element signature="e#2886#2890#0" expanded="true" />
+            <element signature="e#2898#2902#0" expanded="true" />
+            <element signature="e#2973#2977#0" expanded="true" />
+            <element signature="e#2985#2989#0" expanded="true" />
+            <element signature="e#3058#3062#0" expanded="true" />
+            <element signature="e#3070#3074#0" expanded="true" />
+            <element signature="e#3142#3146#0" expanded="true" />
+            <element signature="e#3154#3158#0" expanded="true" />
+            <element signature="e#3224#3228#0" expanded="true" />
+            <element signature="e#3236#3240#0" expanded="true" />
+            <element signature="e#3309#3313#0" expanded="true" />
+            <element signature="e#3321#3325#0" expanded="true" />
+            <element signature="e#3388#3392#0" expanded="true" />
+            <element signature="e#3400#3404#0" expanded="true" />
+            <element signature="e#3473#3477#0" expanded="true" />
+            <element signature="e#3485#3489#0" expanded="true" />
+            <element signature="e#3554#3558#0" expanded="true" />
+            <element signature="e#3566#3570#0" expanded="true" />
+            <element signature="e#3638#3642#0" expanded="true" />
+            <element signature="e#3650#3654#0" expanded="true" />
+            <element signature="e#3717#3721#0" expanded="true" />
+            <element signature="e#3729#3733#0" expanded="true" />
+            <element signature="e#3800#3804#0" expanded="true" />
+            <element signature="e#3812#3816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1701" selection-start-column="1701" selection-end-column="1701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2(task3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
