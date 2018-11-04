@@ -1,0 +1,9 @@
+
+<form action="." method="POST">
+    {% csrf_token %}
+    {{ form }}
+    <button type="submit">save</button>
+</form>
+
+{% if advert %}
+    <a href = "{% url 'advert_delete' advert.id%}">Delete</a>

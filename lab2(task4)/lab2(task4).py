@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+
 with open('a.txt') as file:
     lines = file.read().split()
     array = [line.replace(",","").replace(".","").split() for line in lines]
