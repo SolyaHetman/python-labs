@@ -14,7 +14,6 @@ from advert.models import Advert
 class AdvertList(ListView):
     template_name = 'advert/advert_list.html'
     context_object_name = 'adverts'
-
     def get_queryset(self):
         if self.request.user.is_authenticated:
             return Advert.objects.all()

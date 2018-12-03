@@ -8,9 +8,7 @@ class Advert (models.Model):
     )
     content = models.TextField()
 
-    user = models.ForeignKey(
-        to = User,on_delete = models.CASCADE
-    )
+    user = models.ForeignKey(to = User,on_delete = models.CASCADE)
     is_public = models.BooleanField(default = True)
     date = models.DateTimeField(auto_now_add = True)
 
